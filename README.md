@@ -10,6 +10,8 @@ This is the code companion to a multi-part series on HelpX:
 4. [Part 4 - Developing with the Style System](https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part4.html)
 5. [Part 5 - Navigation and Search](https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part5.html)
 
+Coming soon: Part 6 Custom Component and Sling Models
+
 ## Building
 
 This project uses Maven for building. Common commands:
